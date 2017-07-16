@@ -2,14 +2,16 @@
 
 <h2>Output</h2>
 
-*Open 
+*Open
+<br>
 	if isOpen === true && console.log(umbrella.open());
 	>>>The umbrella is already opened!
 
 	if isOpen === false && console.log(umbrella.open());
 	>>>Julia opens the umbrella!
 
-*Close 
+*Close
+<br>
 	if isOpen === true && console.log(umbrella.close());
 	>>>Julia closes the umbrella!
 
