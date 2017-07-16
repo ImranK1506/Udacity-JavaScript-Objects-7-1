@@ -4,6 +4,7 @@
 
 *Open
 <br>
+
 	if isOpen === true && console.log(umbrella.open());
 	>>>The umbrella is already opened!
 
@@ -12,6 +13,7 @@
 
 *Close
 <br>
+
 	if isOpen === true && console.log(umbrella.close());
 	>>>Julia closes the umbrella!
 
